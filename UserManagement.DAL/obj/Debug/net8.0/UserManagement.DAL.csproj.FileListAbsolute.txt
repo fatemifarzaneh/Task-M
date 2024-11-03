@@ -1,0 +1,16 @@
+C:\Users\maryam\source\repos\UserManagement\UserManagement.DAL\bin\Debug\net8.0\UserManagement.DAL.deps.json
+C:\Users\maryam\source\repos\UserManagement\UserManagement.DAL\bin\Debug\net8.0\UserManagement.DAL.dll
+C:\Users\maryam\source\repos\UserManagement\UserManagement.DAL\bin\Debug\net8.0\UserManagement.DAL.pdb
+C:\Users\maryam\source\repos\UserManagement\UserManagement.DAL\bin\Debug\net8.0\UserManagement.Entity.dll
+C:\Users\maryam\source\repos\UserManagement\UserManagement.DAL\bin\Debug\net8.0\UserManagement.Entity.pdb
+C:\Users\maryam\source\repos\UserManagement\UserManagement.DAL\obj\Debug\net8.0\UserManagement.DAL.csproj.AssemblyReference.cache
+C:\Users\maryam\source\repos\UserManagement\UserManagement.DAL\obj\Debug\net8.0\UserManagement.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maryam\source\repos\UserManagement\UserManagement.DAL\obj\Debug\net8.0\UserManagement.DAL.AssemblyInfoInputs.cache
+C:\Users\maryam\source\repos\UserManagement\UserManagement.DAL\obj\Debug\net8.0\UserManagement.DAL.AssemblyInfo.cs
+C:\Users\maryam\source\repos\UserManagement\UserManagement.DAL\obj\Debug\net8.0\UserManagement.DAL.csproj.CoreCompileInputs.cache
+C:\Users\maryam\source\repos\UserManagement\UserManagement.DAL\obj\Debug\net8.0\UserMana.2E549C1D.Up2Date
+C:\Users\maryam\source\repos\UserManagement\UserManagement.DAL\obj\Debug\net8.0\UserManagement.DAL.dll
+C:\Users\maryam\source\repos\UserManagement\UserManagement.DAL\obj\Debug\net8.0\refint\UserManagement.DAL.dll
+C:\Users\maryam\source\repos\UserManagement\UserManagement.DAL\obj\Debug\net8.0\UserManagement.DAL.pdb
+C:\Users\maryam\source\repos\UserManagement\UserManagement.DAL\obj\Debug\net8.0\ref\UserManagement.DAL.dll
+C:\Users\maryam\source\repos\UserManagement\UserManagement.DAL\obj\Debug\net8.0\UserManagement.DAL.sourcelink.json
